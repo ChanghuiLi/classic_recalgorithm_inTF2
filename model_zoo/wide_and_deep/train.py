@@ -21,7 +21,7 @@ class TrainWideDeeoModel:
         # os.environ['CUDA_VISIBLE_DEVICES'] = '4'
         # ========================= Hyper Parameters =======================
         # you can modify your file path
-        file = '/dataset/Criteo/train.txt'
+        file = '/Users/changhuili/PycharmProjects/classic_recalgorithm_inTF2/dataset/Criteo/train.txt'
         read_part = True
         sample_num = 5000000
         test_size = 0.2
